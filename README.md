@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Leandro%20Castilho&fontSize=45&fontColor=39FF14&fontAlignY=35&desc=Pentest%20%26%20Cybersecurity%20Learner&descAlignY=55&descSize=18&descColor=ffffff" />
+<img src="https://github.com/LeandroCastilhoSilva/LeandroCastilhoSIlva/blob/main/ajuda.png?raw=true" width="700" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;Aprendendo+Pentest+na+pr%C3%A1tica;Construindo+ferramentas+em+Python;Tamb%C3%A9m+programo+em+JS+com+MakeCode" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;Aprendendo+Pentest+na+pr%C3%A1tica;Construindo+ferramentas+em+Python;Tamb%C3%A9m+programo+em+JS+com+MakeCode" />
 </div>
 
 ---
@@ -40,14 +42,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroCastilhoSilva&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCastilhoSilva&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</div>
-
 ---
 
 <div align="center">
   ⚠️ Todo teste de pentest feito em ambiente próprio ou autorizado (DVWA, localhost, VMs).
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer" />
